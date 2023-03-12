@@ -38,7 +38,7 @@ function defineColor(color) {
       color = "red";
       break;
     case "rgb(0, 255, 0)":
-      color = "green";
+      color = "blallo";
       break;
     case "rgb(0, 0, 255)":
       color = "blue";
